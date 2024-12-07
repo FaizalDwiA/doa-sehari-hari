@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Noto Naskh Arabic';
+    src: url('../fonts/noto-naskh-arabic-v34-arabic-regular.woff2') format('woff2'),
+        url('../fonts/noto-naskh-arabic-v34-arabic-500.woff2') format('woff2'),
+        url('../fonts/noto-naskh-arabic-v34-arabic-600.woff2') format('woff2'),
+        url('../fonts/noto-naskh-arabic-v34-arabic-700.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.arab {
+    font-family: 'Noto Naskh Arabic', serif;
+}

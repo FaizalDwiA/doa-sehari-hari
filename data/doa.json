@@ -1,0 +1,260 @@
+{
+    "doa makan": {
+        "bab": "Doa Makan",
+        "doa": [
+            {
+                "judul": "Doa Sebelum Makan",
+                "lafadz": [
+                    {
+                        "arab": "اللَّهُمَّ",
+                        "arti": "ya Allah"
+                    },
+                    {
+                        "arab": "بَارِكْ",
+                        "arti": "berkahilah"
+                    },
+                    {
+                        "arab": "لَنَا",
+                        "arti": "kepada kami"
+                    },
+                    {
+                        "arab": "فِيْمَا",
+                        "arti": "dalam apa"
+                    },
+                    {
+                        "arab": "رَزَقْتَنَا",
+                        "arti": "rezeki yang telah engkau berikan kepada kami"
+                    },
+                    {
+                        "arab": "وَقِنَا",
+                        "arti": "dan lindungi kami"
+                    },
+                    {
+                        "arab": "عَذَابَ",
+                        "arti": "siksa"
+                    },
+                    {
+                        "arab": "النَّارِ",
+                        "arti": "api neraka"
+                    }
+                ]
+            },
+            {
+                "judul": "Doa Sesudah Makan",
+                "lafadz": [
+                    {
+                        "arab": "الْحَمْدُ",
+                        "arti": "segala puji"
+                    },
+                    {
+                        "arab": "لِلَّهِ",
+                        "arti": "bagi Allah"
+                    },
+                    {
+                        "arab": "الَّذِي",
+                        "arti": "yang"
+                    },
+                    {
+                        "arab": "أَطْعَمَنَا",
+                        "arti": "telah memberi kami makan"
+                    },
+                    {
+                        "arab": "وَسَقَانَا",
+                        "arti": "dan mimum kami"
+                    },
+                    {
+                        "arab": "وَجَعَلَنَا",
+                        "arti": "dan menjadikan kami"
+                    },
+                    {
+                        "arab": "مِنَ",
+                        "arti": "dari"
+                    },
+                    {
+                        "arab": "الْمُسْلِمِينَ",
+                        "arti": "orang-orang muslim"
+                    }
+                ]
+            }
+        ]
+    },
+    "doa kamar mandi": {
+        "bab": "Doa Kamar Mandi",
+        "doa": [
+            {
+                "judul": "Doa Masuk Kamar Mandi",
+                "lafadz": [
+                    {
+                        "arab": "اللَّهُمَّ",
+                        "arti": "ya Allah"
+                    },
+                    {
+                        "arab": "إِنِّي",
+                        "arti": "sesungguhnya aku"
+                    },
+                    {
+                        "arab": "أَعُوْذُبِكَ",
+                        "arti": "berlindung kepadamu"
+                    },
+                    {
+                        "arab": "مِنَ",
+                        "arti": "dari"
+                    },
+                    {
+                        "arab": "الْخُبُثِ",
+                        "arti": "jin laki²"
+                    },
+                    {
+                        "arab": "وَالْخَبَائِثِ",
+                        "arti": "jin perempuan"
+                    }
+                ]
+            },
+            {
+                "judul": "Doa Keluar Kamar Mandi",
+                "lafadz": [
+                    {
+                        "arab": "غُفْرَانَكَ",
+                        "arti": "dengan mengharap ampunanmu"
+                    },
+                    {
+                        "arab": "الْحَمْدُ",
+                        "arti": "segala puji"
+                    },
+                    {
+                        "arab": "لِلَّهِ",
+                        "arti": "bagi Allah"
+                    },
+                    {
+                        "arab": "الَّذِیْ",
+                        "arti": "yang"
+                    },
+                    {
+                        "arab": "اَذْهَبَ",
+                        "arti": "telah menghilangkan kotoran"
+                    },
+                    {
+                        "arab": "عَنِّي",
+                        "arti": "dari badanku"
+                    },
+                    {
+                        "arab": "الْأَذَى",
+                        "arti": "kotoran"
+                    },
+                    {
+                        "arab": "وَعَافَانِي",
+                        "arti": "dan menyehatkan ku"
+                    }
+                ]
+            },
+            {
+                "judul": "Doa Mandi",
+                "lafadz": [
+                    {
+                        "arab": "اللَّهُمَّ",
+                        "arti": "ya Allah"
+                    },
+                    {
+                        "arab": "اغْفِرْ",
+                        "arti": "berikan ampunan"
+                    },
+                    {
+                        "arab": "لِي",
+                        "arti": "kepadaku"
+                    },
+                    {
+                        "arab": "ذَنْبِي",
+                        "arti": "dosaku"
+                    },
+                    {
+                        "arab": "وَوَسِّعْ",
+                        "arti": "dan berilah keluasan"
+                    },
+                    {
+                        "arab": "لِي",
+                        "arti": "kepadaku"
+                    },
+                    {
+                        "arab": "فِي",
+                        "arti": "pada"
+                    },
+                    {
+                        "arab": "دَارِي",
+                        "arti": "rumahku"
+                    },
+                    {
+                        "arab": "وَبَارِكْ",
+                        "arti": "dan berkahilah"
+                    },
+                    {
+                        "arab": "لِي",
+                        "arti": "kepadaku"
+                    },
+                    {
+                        "arab": "فِي",
+                        "arti": "pada"
+                    },
+                    {
+                        "arab": "رِزْقِيْ",
+                        "arti": "rizkiku"
+                    }
+                ]
+            }
+        ]
+    },
+    "doa masjid": {
+        "bab": "Doa Masjid",
+        "doa": [
+            {
+                "judul": "Doa Masuk Masjid",
+                "lafadz": [
+                    {
+                        "arab": "اللَّهُمَّ",
+                        "arti": "ya Allah"
+                    },
+                    {
+                        "arab": "افْتَحْ",
+                        "arti": "bukalah"
+                    },
+                    {
+                        "arab": "لِي",
+                        "arti": "untukku"
+                    },
+                    {
+                        "arab": "أَبْوَابَ",
+                        "arti": "pintu-pintu"
+                    },
+                    {
+                        "arab": "رَحْمَتِكَ",
+                        "arti": "rahmatmu"
+                    }
+                ]
+            },
+            {
+                "judul": "Doa Keluar Masjid",
+                "lafadz": [
+                    {
+                        "arab": "اللَّهُمَّ",
+                        "arti": "ya Allah"
+                    },
+                    {
+                        "arab": "إِنِّي",
+                        "arti": "sesungguhnya aku"
+                    },
+                    {
+                        "arab": "أَسْأَلُكَ",
+                        "arti": "memohon kepadamu"
+                    },
+                    {
+                        "arab": "مِنْ",
+                        "arti": "dari"
+                    },
+                    {
+                        "arab": "فَضْلِكَ",
+                        "arti": "karuniamu"
+                    }
+                ]
+            }
+        ]
+    }
+}
