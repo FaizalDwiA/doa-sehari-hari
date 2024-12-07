@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    fetch('../layout/sidebar.html')  // Pastikan path benar
+    fetch('layout/sidebar.html')  // Pastikan path benar
         .then(response => response.text())
         .then(data => {
             const sidebarContainer = document.getElementById('sidebar-container');
